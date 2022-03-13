@@ -1,0 +1,12 @@
+Twitter Data scrapper using Twitter Dev / Tweepy / Python
+
+01. get Home Feed
+02. get User Data
+03. get User Mentions
+04. get User Timeline
+05. get Liked Tweets
+06. get User's Retweeted
+07. search Topic
+08. get Followers (upto 20)
+09. get Following (upto 20)
+-1. system exit

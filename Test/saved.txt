@@ -1,0 +1,14 @@
+"""
+name = user.name
+user_name = user.screen_name
+location = user.location
+desc = user.description
+link = user.url
+private = user.protected
+followers = user.followers_count
+following = user.friends_count
+created = user.created_at
+liked = user.favourites_count
+verified = user.verified
+tweets = user.statuses_count
+"""
