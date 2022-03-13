@@ -12,16 +12,16 @@ Python script for scrapping off and fetching user's data off Twitter using Twitt
 
   ### Commands
   Press:
-   - `1`: get Home Feed
-   - `2`: get User Data
-   - `3`: get User Mentions
-   - `4`: get User Timeline
-   - `5`: get Liked Tweets
-   - `6`: get User's Retweeted
-   - `7`: search Topic
-   - `8`: get Followers (upto 20)
-   - `9`: get Following (upto 20)
-   - `-1`: System exit
+   - `1` get Home Feed
+   - `2` get User Data
+   - `3` get User Mentions
+   - `4` get User Timeline
+   - `5` get Liked Tweets
+   - `6` get User's Retweeted
+   - `7` search Topic
+   - `8` get Followers (upto 20)
+   - `9` get Following (upto 20)
+   - `-1` System exit
     
 ## Twitter Dev Auth setup
  - The Twitter Developer Authentication for an elevated API has been done through [here](https://developer.twitter.com/en/products/twitter-api).
